@@ -1,4 +1,4 @@
 HOST = "0.0.0.0"
 PORT = 3000
-DEBUG = False
+DEBUG = True
 ALLOWED_EXTS = ["zip", "apk"]
